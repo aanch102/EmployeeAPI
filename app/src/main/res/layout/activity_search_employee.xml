@@ -25,9 +25,9 @@
         android:text="Search"
         android:textSize="20sp"
         />
-    <ListView
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/lstEmployee"/>
+        android:id="@+id/tvData"/>
 
 </LinearLayout>
